@@ -1,0 +1,1 @@
+start Console\ConEmu64.exe /cmd -cur_console:t:"Bot" hetool\gui.bat
