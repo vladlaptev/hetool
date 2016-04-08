@@ -1,4 +1,4 @@
-## HETOOL v1.3
+## HETOOL v1.3 (HackEx bot)
 
 Alternative ruby client (bot) for HackEx Android game
 
@@ -10,4 +10,4 @@ You can do this by сhange hetool/accaunts/accs.txt file (if not exists, create 
 ## Run client
 
 To run client you need installed ruby with SETPATH, because ruby scripts runs from
-gui.bat with command "ruby %name%.rb"
+gui.bat with command "ruby %name%.rb" and also I reccomend to use ConEmu console to run bat file.
