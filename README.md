@@ -7,27 +7,7 @@ Alternative ruby client (bot) for HackEx Android game
 First of all to use this soft you need to add accounts you want to use.
 You can do this by сhange hetool/accaunts/accs.txt file (if not exists, create it).
 
-## accs file syntax:
-###login###
-mail:pass
+## Run client
 
-###addcontact###
-mail
-
-###money_from_accs###
-mail(money will be send to first account, from others)
-mail
-
-###robobuy###
-mail:ip
-
-###spamacc###
-mail
-
-###createcsv###
-mail
-
-###register###
-acc_name:mail@mail.mail:acc_password
-
-Then you can login to accounts and make some fun!
+To run client you need installed ruby with SETPATH, because ruby scripts runs from
+gui.bat with command "ruby %name%.rb"
